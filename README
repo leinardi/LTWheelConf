@@ -64,8 +64,7 @@ Disable autocenter completely:
 Set native mode, disable autocenter and set wheel rotation range of 900 degrees in one call:
     $ sudo ltwheelconf --wheel DFGT --nativemode --range 900 --autocenter 0 --rampspeed 0
 
-
-Now you can configure the steering wheel directly from Euro Truck Simulator 2. To test and calibrate the steering wheel outside ETS2 you can use **jstest-gtk**
+To test and calibrate the steering wheel you can use **jstest-gtk**
 
 # Credits:
 Based on:
